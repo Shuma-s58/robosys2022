@@ -2,7 +2,7 @@
 ロボットシステム学にて使ったファイル
 
 # テスト結果
-![test](https://github.com/melonsuika58/robosys2022/actions/.github/workflows/test.yml/badge.svg)
+![test](https://github.com/melonsuika58/robosys2022/actions/workflows/test.yml/badge.svg)
 
 # 必要なソフトウェア
 * Python
