@@ -7,7 +7,7 @@ ans = 0
 for line in sys.stdin:
 
         ans += int(line)
+print("すべて足した合計 =",ans )
 
-print(ans)
 
 
