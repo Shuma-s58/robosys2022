@@ -3,7 +3,9 @@
 
 # ファイルの説明
 * hello:
-   helloと3.14を表示する。（python練習）
+  * helloと3.14を表示する。（python練習）
+* list2
+  * 配列の練習
 # テスト結果
 ![test](https://github.com/melonsuika58/robosys2022/actions/workflows/test.yml/badge.svg)
 
