@@ -16,7 +16,6 @@ out=$(seq 5 | ./plus)
 3重に足した値 = 45" ]  || ng ${LINENO}
 
 
-
 ### STRANGE INPUT ###
 out=$(echo あ | ./plus)
 [ "$?" = 1 ]      || ng ${LINENO}
