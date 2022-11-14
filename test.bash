@@ -11,7 +11,11 @@ res=0
 
 ### I/O TEST ###
 out=$(seq 5 | ./plus)
-[ "${out}" = "合計 = 15" ]  || ng ${LINENO}
+[ "${out}" = "合計 = 15
+2重に足した値 = 30
+3重に足した値 = 45" ]  || ng ${LINENO}
+
+
 
 ### STRANGE INPUT ###
 out=$(echo あ | ./plus)
