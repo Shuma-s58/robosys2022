@@ -16,9 +16,9 @@ out=$(seq 5 | ./plus)
 3重に足した値 = 45" ]  || ng ${LINENO}
 
 out=$(seq 10 | ./plus)
-[ "${out}" = "合計 = 15
-2重に足した値 = 30
-3重に足した値 = 45" ]  || ng ${LINENO}
+[ "${out}" = "合計 = 55
+2重に足した値 = 110
+3重に足した値 = 165" ]  || ng ${LINENO}
 
 
 ### STRANGE INPUT ###
