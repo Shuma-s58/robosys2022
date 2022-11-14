@@ -5,11 +5,16 @@
 import sys
 
 ans1 = 0
+ans2 = 0
+ans3 = 0
 for line in sys.stdin:
 
         ans1 += int(line)
+        ans2 += int(line) + int(line)
+        ans3 += int(line) * 3
 
-print("合計 =",ans1 )
-
+print("合計 =", ans1 )
+print("2重に足した値 =", ans2)
+print("3重に足した値 =", ans3)
 
 
