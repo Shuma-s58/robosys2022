@@ -11,16 +11,16 @@
   * 3条項BDSライセンス
 * hello:
   * helloと3.14を表示するプログラム（python練習）
+  * ./hello で実行
 * list2:
   * 配列の練習
+  * ./list2 で実行
 * plus:
   * 加算プログラム(メインプログラム)
+  * seq 数字 | ./plus で実行(数字は任意の整数を入力)
 * test.bash:
   * plusに対するテスト実行
-
-# 使用したコマンド一覧
-* seq (test.bashにて使用)
-* echo (test.bashにて使用)
+  * ./test.bash で実行
 
 # 必要なソフトウェア
 * Python
