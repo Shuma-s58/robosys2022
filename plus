@@ -16,5 +16,3 @@ for line in sys.stdin:
 print("合計 =", ans1 )
 print("2重に足した値 =", ans2)
 print("3重に足した値 =", ans3)
-
-
