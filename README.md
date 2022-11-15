@@ -8,7 +8,7 @@
 * README.md:
   * このリポジトリについての説明です。最初にお読みください。
 * LICENCE:
-  * 3条項BDSライセンス
+  * 3条項BSDライセンス
 * hello:
   * helloと3.14を表示するプログラム（python練習）
   * ./hello で実行
