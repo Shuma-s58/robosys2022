@@ -4,7 +4,7 @@
 # ファイルの説明
 * README.md:
   * このリポジトリについての説明です。最初にお読みください。
-* LICENCE
+* LICENCE:
   * 3条項BDSライセンス
 * hello:
   * helloと3.14を表示するプログラム（python練習）
@@ -16,6 +16,14 @@
   * plusに対するテスト実行
 # テスト結果
 ![test](https://github.com/melonsuika58/robosys2022/actions/workflows/test.yml/badge.svg)
+
+#使用したコマンド一覧
+* print (hello, list2, plusにて使用)
+* import (plusにて使用)
+* for in (plusにて使用)
+* seq (test.bashにて使用)
+* echo (test.bashにて使用)
+* exit (test.bashにて使用)
 
 # 必要なソフトウェア
 * Python
