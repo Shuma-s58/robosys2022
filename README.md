@@ -24,7 +24,9 @@ cd ./robosys2022
   * 3条項BSDライセンス
 * hello:
   * helloと3.14を表示するプログラム（python練習）
-  * ./hello で実行
+  ```sh
+  ./hello
+  ```
 * list2:
   * 配列の練習
   * ./list2 で実行
