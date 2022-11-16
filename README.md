@@ -8,10 +8,10 @@
 インストール手順は以下の通りです。
 
 * git clone https://github.com/melonsuika58/robosys2022
-  * Git がない場合は  sudo apt install git  でGitをインストールしてください。
+  * Git がない場合は "sudo apt install git" でGitをインストールしてください。
 * cd robosys2022
 * それぞれのファイルの実行方法は、以下の「ファイルの説明」をご覧ください。
-  * 実行できない場合は  chmod +x ファイル名  と打ってから実行してください。(ファイル名は、実行したいファイルの名前を入力)
+  * 実行できない場合は "chmod +x ファイル名" と打ってから実行してください。(ファイル名は、実行したいファイルの名前を入力)
 
 # ファイルの説明
 * README.md:
