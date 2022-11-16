@@ -8,7 +8,7 @@
 インストール手順・使用方法は以下の通りです。
 
 ```sh
-#  Git がない場合
+# Git がない場合
 sudo apt install git
 # パッケージのインストール
 git clone https://github.com/melonsuika58/robosys2022
@@ -25,17 +25,27 @@ cd ./robosys2022
 * hello:
   * helloと3.14を表示するプログラム（python練習）
   ```sh
+  # 実行
   ./hello
   ```
 * list2:
   * 配列の練習
-  * ./list2 で実行
+  ```sh
+  # 実行
+  ./list2
+  ```
 * plus:
   * 加算プログラム(メインプログラム)
-  * seq 数字 | ./plus で実行(数字は任意の整数を入力)
+  ```sh
+  # 実行("数字"には任意の整数を入力してください)
+  seq "数字" | ./plus
+  ```
 * test.bash:
   * plusに対するテスト実行
-  * ./test.bash で実行
+  ```sh
+  # 実行
+  ./test.bash
+  ```
 
 # 必要なソフトウェア
 * Python
