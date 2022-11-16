@@ -9,7 +9,7 @@
 
 * git clone https://github.com/melonsuika58/robosys2022
   * Git がない場合は "sudo apt install git" でGitをインストールしてください。
-* cd robosys2022
+* cd ./robosys2022
 * それぞれのファイルの実行方法は、以下の「ファイルの説明」をご覧ください。
 
 # ファイルの説明
