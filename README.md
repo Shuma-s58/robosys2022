@@ -7,14 +7,14 @@
 # インストール手順・使用方法
 インストール手順・使用方法は以下の通りです。
 
-'''sh
+```sh
 #  Git がない場合
 sudo apt install git
 # パッケージのインストール
 git clone https://github.com/melonsuika58/robosys2022
 #
 cd ./robosys2022
-'''
+```
 * それぞれのファイルの実行方法は、以下の「ファイルの説明」をご覧ください。
 
 # ファイルの説明
