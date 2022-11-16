@@ -1,8 +1,14 @@
-# テスト結果
+
 ![test](https://github.com/melonsuika58/robosys2022/actions/workflows/test.yml/badge.svg)
 
 # robosys2022
 ロボットシステム学にて使ったファイル
+
+# インストール手順
+インストール手順は以下の通りです。
+* git clone https://github.com/melonsuika58/robosys2022
+* cd robosys2022
+* それぞれのファイルの実行方法は、以下の「ファイルの説明」をご覧ください。
 
 # ファイルの説明
 * README.md:
@@ -28,9 +34,6 @@
 
 # テスト環境
 * Ubuntu 22.04.01 LTS
-
-# 使用したテキストエディタ
-* vim
 
 # ライセンスについて
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再分布および使用が許可されています
