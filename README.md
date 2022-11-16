@@ -4,8 +4,8 @@
 # robosys2022
 ロボットシステム学にて使ったファイル
 
-# インストール手順
-インストール手順は以下の通りです。
+# インストール手順・使用方法
+インストール手順・使用方法は以下の通りです。
 
 * git clone https://github.com/melonsuika58/robosys2022
   * Git がない場合は "sudo apt install git" でGitをインストールしてください。
