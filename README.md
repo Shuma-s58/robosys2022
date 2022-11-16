@@ -12,7 +12,7 @@
 sudo apt install git
 # パッケージのインストール
 git clone https://github.com/melonsuika58/robosys2022
-#
+# robosys2022に移動
 cd ./robosys2022
 ```
 * それぞれのファイルの実行方法は、以下の「ファイルの説明」をご覧ください。
