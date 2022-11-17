@@ -3,8 +3,8 @@
 # SPDX-LIcense-Identifier: BSD-3-Clause
 
 
-fruits = ["a", "b", "c", "d", "e" ]
-print("０番目から2番目の要素: ", fruits[0:3])
-print("2番目以降の要素: ", fruits[2:])
-print("ひとつ飛ばしてリストを作成: ", fruits[0::2])
+fruits = ["a", "b", "c", "d", "e" ]                 #リスト作成
+print("０番目から2番目の要素: ", fruits[0:3])       #リスト取り出し例1
+print("2番目以降の要素: ", fruits[2:])              #リスト取り出し例2
+print("ひとつ飛ばしてリストを作成: ", fruits[0::2]) #リスト取り出し例3
 
