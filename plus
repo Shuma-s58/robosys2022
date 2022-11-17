@@ -9,9 +9,9 @@ ans2 = 0
 ans3 = 0
 for line in sys.stdin:
 
-        ans1 += int(line)
-        ans2 += int(line) + int(line)
-        ans3 += int(line) * 3
+        ans1 += int(line)               #1つずつ足す
+        ans2 += int(line) + int(line)   #2重に足す
+        ans3 += int(line) * 3           #3倍にして足す
 
 print("合計 =", ans1 )
 print("2重に足した値 =", ans2)
