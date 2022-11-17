@@ -2,6 +2,6 @@
 # SPDX-FileCopyrightText: 2022 Shuma Suzuki
 # SPDX-LIcense-Identifier: BSD-3-Clause
 
-print("hello")
-print(3.14)
+print("hello")  #helloを表示
+print(3.14)     #3.14を表示
 
