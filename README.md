@@ -2,7 +2,13 @@
 ![test](https://github.com/melonsuika58/robosys2022/actions/workflows/test.yml/badge.svg)
 
 # robosys2022
-ロボットシステム学にて使ったファイル
+* 使用したコマンド
+  * print,import,for in,seq,echoを使用
+* できること
+  * plusでは数字の列を入力することで、合計、2重に足した値、3重に足した値を求めることができます。
+  * helloではhelloと3.14を表示できます。
+  * list2ではリストの簡単な使い方を知ることができます。
+* その他のファイルの説明は、以下の「ファイルの説明」をご覧ください。
 
 # インストール手順・使用方法
 インストール手順・使用方法は以下の通りです。
