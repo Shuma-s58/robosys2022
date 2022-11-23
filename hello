@@ -5,4 +5,3 @@
 print("hello")  #helloを表示
 print(3.14)     #3.14を表示
 
-
